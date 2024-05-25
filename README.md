@@ -5,7 +5,6 @@ k-mers_features.ipynb - подсчёт матриц признаков <br />
 Pairwise_distances.ipynb, remove_similar.py - удаление близкородственных последовательностей <br />
 hyperparameter_tuning_genus.py, hyperparameter_tuning_genus_ranged.py - обучение базовых алгоритмов ML <br />
 blastn_baseline.ipynb - предсказание хозяев вирусов методом на основе blastn <br />
-pictures.ipynb - ноутбук с картинками (статистика по выборке вирусных последовательностей, результаты обучения алгоритмов ML) <br />
 meta_estimators.py - обучение метаклассификаторов <br />
 
 kraken2_parser.ipynb - анализ обработка прочтений метагеномного исследования (не использовалось в работе) <br />
